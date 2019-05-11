@@ -133,7 +133,7 @@ Additional information, help
 
 **Fix or improve this documentation**
 
-- On Github: `Repo link <https://github.com/CyVerse-learning-materials/patmatch-jupyterlab/blob/master/index.rst>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/PatMatch_QuickStart>`_
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
@@ -142,7 +142,7 @@ Additional information, help
 `Learning Center Home`_
 
 .. |PatMatchJupyterLab logo| image:: ./img/vice_badge.png
-.. _PatMatchJupyterLab logo: https://de.cyverse.org/de/?type=apps&app-id=????????????&system-id=de
+.. _PatMatchJupyterLab logo: https://de.cyverse.org/de/?type=apps&app-id=4ec32fee-3f8c-11e9-b9fd-008cfa5ae621&system-id=de
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
